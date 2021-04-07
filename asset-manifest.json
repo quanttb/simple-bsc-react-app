@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-bsc-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/simple-bsc-react-app/static/js/main.a5227ee3.chunk.js",
+    "main.js.map": "/simple-bsc-react-app/static/js/main.a5227ee3.chunk.js.map",
+    "runtime-main.js": "/simple-bsc-react-app/static/js/runtime-main.a37f4059.js",
+    "runtime-main.js.map": "/simple-bsc-react-app/static/js/runtime-main.a37f4059.js.map",
+    "static/js/2.dbe2bfc8.chunk.js": "/simple-bsc-react-app/static/js/2.dbe2bfc8.chunk.js",
+    "static/js/2.dbe2bfc8.chunk.js.map": "/simple-bsc-react-app/static/js/2.dbe2bfc8.chunk.js.map",
+    "static/js/3.7a5fdaf8.chunk.js": "/simple-bsc-react-app/static/js/3.7a5fdaf8.chunk.js",
+    "static/js/3.7a5fdaf8.chunk.js.map": "/simple-bsc-react-app/static/js/3.7a5fdaf8.chunk.js.map",
+    "index.html": "/simple-bsc-react-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/simple-bsc-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.dbe2bfc8.chunk.js.LICENSE.txt": "/simple-bsc-react-app/static/js/2.dbe2bfc8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simple-bsc-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a37f4059.js",
+    "static/js/2.dbe2bfc8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a5227ee3.chunk.js"
+  ]
+}
